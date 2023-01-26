@@ -35,9 +35,11 @@ if i > max:
 max = i
 return max
 ```
-## Sample Input and Output
-![output](./img/max_marks1.jpg) 
-
+/*
+Program to find the solution for maximum marks.
+Developed by: Yuvarani T
+RegisterNumber: 22009033
+/*
 ## Output:
 ![python 1](https://user-images.githubusercontent.com/121418522/212913177-b0561cee-3666-4a1e-bd6a-d4489abf863b.png)
 
